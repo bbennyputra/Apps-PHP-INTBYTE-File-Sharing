@@ -72,6 +72,7 @@ echo '<div class="page-error">
     </div>
   </div>
 </div>';
+
 echo '</div>';
 echo '</section>';
 require_once 'incfiles/footer.php';
