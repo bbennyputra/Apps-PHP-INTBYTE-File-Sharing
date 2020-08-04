@@ -198,4 +198,4 @@ if(isset($_GET['q'])) {
   // Illegal access
   $core->redirect(base_url().'/');
 }
-?> 
+?>
